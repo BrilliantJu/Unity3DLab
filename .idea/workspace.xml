@@ -9,7 +9,18 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="963a087c-a1bc-4f9a-b41e-612cd78789d3" name="Default Changelist" comment="" />
+    <list default="true" id="963a087c-a1bc-4f9a-b41e-612cd78789d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launcher/launcher.iml" beforeDir="false" afterPath="$PROJECT_DIR$/launcher/launcher.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityLibrary/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unityLibrary/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/boot.config" beforeDir="false" afterPath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/boot.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/data.unity3d" beforeDir="false" afterPath="$PROJECT_DIR$/unityLibrary/src/main/assets/bin/Data/data.unity3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unityLibrary/unityLibrary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unityLibrary/unityLibrary.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
